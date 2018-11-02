@@ -1,0 +1,31 @@
+body{
+    background: #eee;
+}
+#searching {
+    text-align: center;
+    border: 1px solid;
+    width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 4px #000;
+    background: #fff;
+}
+#search{
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 5px;
+    font-size: 0.9em;
+}
+#searchItem{
+    text-align: center;
+    width: 70%;
+    border: 2px dotted;
+    border-radius: 10px;
+    margin: 10px auto;
+    padding: 20px;
+    background: #fff;
+}
+#searchItem img{
+    border-radius: 100%;
+}
